@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+altair
+panel
+vega_datasets
+bokeh
